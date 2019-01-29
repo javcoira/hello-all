@@ -6,4 +6,5 @@ public class Alumno
 	private String ciclo;
 	
 	private Alumno(){}
+	private Alumno(String nif) {this.nif=nif;}
 }
