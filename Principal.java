@@ -13,6 +13,8 @@ public class Principal {
 		double dob;
 		int num,onum = 0;
 		System.out.println("Soy el master");
+		System.out.println("Soy rama2");
+
 		do
 		{
 			
